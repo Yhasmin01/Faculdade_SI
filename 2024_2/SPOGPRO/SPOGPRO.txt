@@ -1,2 +1,9 @@
 SUP.12783 (SPOGPRO)
 Wendel Santos
+
+A avaliação da disciplina se dará conforme abaixo:
+
+Prova Dissertativa: 30% (foco na avaliação teórica)
+Projeto Prático: 30% (foco na aplicação prática)
+Apresentação Oral: 20% (avaliação da comunicação e domínio do projeto)
+Exercícios Moodle: 20% (incentivo à participação e melhoria contínua)
